@@ -1,5 +1,5 @@
 <div align="center">
-![Mandelbrot Fractal Image](/image.png)
+![Mandelbrot Fractal Image](image.png)
 
 # Mandelbrot Fractal
 </div>
@@ -14,4 +14,4 @@ With those set to desired values, simply run `python3 main.py`. The script will 
 
 ## License
 
-This script is licensed under the WTFPL. For full text, see [the LICENSE document](/LICENSE.md).
+This script is licensed under the WTFPL. For full text, see [the LICENSE document](LICENSE.md).
