@@ -1,6 +1,8 @@
-<img align="center" alt="Mandelbrot Fractal Image" src="image.png"/>
 <div align="center">
-# Mandelbrot Fractal
+  <img alt="Mandelbrot Fractal Image" src="image.png">
+  
+  # Mandelbrot Fractal
+  
 </div>
 
 This is a super basic python script that renders the Mandelbrot set on the Complex plane. I had a lot of other things to do including watching lectures and reading the required readings, but I got too distracted by a sudden intense desire to plot fractals.
