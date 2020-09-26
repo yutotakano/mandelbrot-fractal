@@ -1,6 +1,5 @@
+<img align="center" alt="Mandelbrot Fractal Image" src="image.png"/>
 <div align="center">
-![Mandelbrot Fractal Image](image.png)
-
 # Mandelbrot Fractal
 </div>
 
